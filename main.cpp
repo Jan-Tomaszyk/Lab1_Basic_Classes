@@ -41,7 +41,8 @@ class Car {
 //1. Dlatego, ¿e dziêki temu zapobiegamy ich niechcianej modyfikacji przez kod spoza metod klasy.
 //2. Wtedy bêdzie mo¿na modyfikowaæ ich wartoœæ komendami spoza metod klasy.
 //3. Tak, tak.
-int main() {
+int main()
+{
     // Create a Car object
     Car my("Opel", "Opel 3", 2002);
     Car concepted("Opel", "Opel 3", 2005);
